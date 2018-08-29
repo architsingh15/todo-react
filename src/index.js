@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
 import registerServiceWorker from './registerServiceWorker';
+import PaperTodo from './components/PaperTodo';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<PaperTodo />, document.getElementById('root'));
 registerServiceWorker();
