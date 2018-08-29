@@ -1,0 +1,15 @@
+.add-button {
+    margin-left: 15px;
+}
+
+.todo-item {
+    cursor: pointer;
+}
+
+.strike-through{
+    text-decoration: line-through;
+}
+
+.filter {
+    margin-left: 15px;
+}
